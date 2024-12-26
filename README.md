@@ -1,4 +1,3 @@
 # amazon_clone-demo
-This is my first Git Repository.
-<br>
-Author - Manali Patel
+Amazon clone demo template created using HTML & CSS. This is a Static Page.
+
